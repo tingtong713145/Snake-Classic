@@ -1,5 +1,6 @@
 {
-    "name":"Snake Challenge",
-    "display":      "standalone",
-    "orientation":  "portrait" 
+    "name": "Snake Challenge",
+    "display": "standalone",
+    "orientation": "portrait",
+    "private": "false"
 }
